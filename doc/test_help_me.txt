@@ -1,0 +1,5 @@
+*test_help_me.txt*  Test plugin for help-me.vim
+
+Author:  Radps;av Hubenov <rrhubenov@gmail.com>
+License: Same terms as Vim itself (see |license|)
+
