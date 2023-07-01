@@ -3,3 +3,5 @@
 Author:  Radps;av Hubenov <rrhubenov@gmail.com>
 License: Same terms as Vim itself (see |license|)
 
+    INTRODUCTION       *test_help_me*
+
