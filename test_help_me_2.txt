@@ -1,0 +1,5 @@
+*test_help_me2.txt* Second test help file
+
+Author:  Radps;av Hubenov <rrhubenov@gmail.com>
+License: Same terms as Vim itself (see |license|)
+
